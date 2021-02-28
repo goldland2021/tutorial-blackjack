@@ -65,7 +65,7 @@
     "groupIndex": 0,
     "_trs": {
       "__type__": "TypedArray",
-      "ctor": "Float32Array",
+      "ctor": "Float64Array",
       "array": [
         679,
         413,
@@ -129,7 +129,7 @@
     "groupIndex": 0,
     "_trs": {
       "__type__": "TypedArray",
-      "ctor": "Float32Array",
+      "ctor": "Float64Array",
       "array": [
         6,
         -5.5,
@@ -255,7 +255,7 @@
     "groupIndex": 0,
     "_trs": {
       "__type__": "TypedArray",
-      "ctor": "Float32Array",
+      "ctor": "Float64Array",
       "array": [
         -30.100000381469727,
         25,
@@ -355,7 +355,7 @@
     "groupIndex": 0,
     "_trs": {
       "__type__": "TypedArray",
-      "ctor": "Float32Array",
+      "ctor": "Float64Array",
       "array": [
         -30.100000381469727,
         48,
